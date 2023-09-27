@@ -12,3 +12,6 @@ Computer Architecture)
 Single-cycle architecture: The processor follows a single-cycle design, where each instruction is executed within a single clock cycle.
 Instruction set support: The processor supports a subset of the MIPS ISA, allowing for the execution of common instructions used in MIPS assembly programs.
 Modular design: The Verilog code is organized into separate modules for different functional units, such as the instruction fetch, decode, execute, memory, and write-back stages, making it easy to understand and modify.
+# Single-Cycle_MIPS_Processor_diagram
+
+![MIPs_TOP](https://github.com/MohamedEmad34/Single_Cycle_MIPS_Processor/assets/102392237/1ae5ae8a-279c-4799-a7a2-08a1ecbb2a57)
